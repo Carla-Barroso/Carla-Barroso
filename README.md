@@ -3,14 +3,13 @@
 ### 🚀 Sobre mim
 
 * 🎓 Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas
+## 🚀 Sobre mim
+
+* 🎓 Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas
 * 📊 Em transição para a área de Dados
-* 🐍 Estudando Python, SQL e Power BI
-* 💻 Desenvolvendo projetos para transformar conhecimento em prática
-* 📚 Sempre aprendendo e explorando novas tecnologias
+* 🐍 Estudando Python para Análise de Dados
+* 💻 Desenvolvendo projetos e colocando meus conhecimentos em prática
 
-
-### 🧰 Tecnologias
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,mysql,git,github)
 
 ### 📊 Estatísticas do GitHub
 ![Carla's GitHub stats](https://github-stats-extended.vercel.app/api?username=Carla-Barroso&show_icons=true&theme=tokyonight)
