@@ -3,9 +3,6 @@
 ### 🚀 Sobre mim
 
 * 🎓 Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas
-## 🚀 Sobre mim
-
-* 🎓 Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas
 * 📊 Em transição para a área de Dados
 * 🐍 Estudando Python para Análise de Dados
 * 💻 Desenvolvendo projetos e colocando meus conhecimentos em prática
